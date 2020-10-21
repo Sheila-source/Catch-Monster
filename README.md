@@ -40,4 +40,14 @@ This is a 2D isometric game, with high quality 2D sprites. The character and des
 - In the first action of the game it has a happy music in the background.
 - When the main character dino hit by the rocks the sound.
 
+# Technical Description
+
+The game will be a Mobile Cross-platform: Android, Microsoft Windows and Follow with PC standalone version and Facebook Canvas.
+
+# CONTROLS
+
+- A KEY - to move left
+- D KEY - to move right
+- SPACE BAR - to jump
+
 

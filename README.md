@@ -56,4 +56,40 @@ The game will be a Mobile Cross-platform: Android, Microsoft Windows and Follow 
 
 ![minecraftia](https://user-images.githubusercontent.com/73207169/96669751-71c6bb80-1390-11eb-89ad-d3fe72392fc3.png)
 
+# Audio/Music
 
+- Catch.wav
+- Dino_death.wav
+- Egg_crack.wav
+- Hit the ground - fall.wav
+- Background music - happy.mp3
+- Happy.ogg
+- Jump.wav
+- Rock_break.wav
+
+# Graphics
+
+I. Character
+a. Hero
+II. Other
+- Rocks
+- Eggs
+III. Blocks
+- Ground
+
+# Background
+
+![sky](https://user-images.githubusercontent.com/73207169/96670607-52309280-1392-11eb-9b3a-ab2b9ea3e8e4.png)
+
+# Ground
+
+![ground](https://user-images.githubusercontent.com/73207169/96670644-68d6e980-1392-11eb-834c-9053e11cf7c5.png)
+
+# Demographics
+
+- Age: 15 above
+- Sex: Everyone, Casual players mostly.
+
+# Platforms and Monetization
+
+Free in Android app with in-game ads, and paid version without ads. Free iOs with ads. Paid iOs version without ads. In game purchases.

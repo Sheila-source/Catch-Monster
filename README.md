@@ -1,7 +1,7 @@
 # Catch-Monster
 ![logo](https://user-images.githubusercontent.com/73207169/96665782-4344e280-1388-11eb-82f2-a99e357ca425.png)
 
-# Game Animation Sample Link:
+# Game Sample Video:
 https://drive.google.com/file/d/1ZhQZ7Iuu-oGIg_QXRbFRJ4qVK8KPdV-t/view?usp=sharing
 
 # Project Description

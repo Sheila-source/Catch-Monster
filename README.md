@@ -12,3 +12,6 @@ Dino is the main character in the game. This character is tiny and cute. This pl
 
 ![dino](https://user-images.githubusercontent.com/73207169/96666608-10035300-138a-11eb-8f6f-9de82079e377.png)
 
+Rocks are the opponent in the game. Those rocks are falling to sky in the ground so that dino must avoid the rocks.
+
+![rock_sprite](https://user-images.githubusercontent.com/73207169/96667201-2cec5600-138b-11eb-893e-006cd57d622f.png)

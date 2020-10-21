@@ -2,7 +2,7 @@
 ![logo](https://user-images.githubusercontent.com/73207169/96665782-4344e280-1388-11eb-82f2-a99e357ca425.png)
 
 # Game Animation Sample Link:
-https://drive.google.com/drive/folders/1ZPhQg25BbOYXNuPYBy15W2FTfDe1rbB8?usp=sharing
+https://drive.google.com/file/d/1ZhQZ7Iuu-oGIg_QXRbFRJ4qVK8KPdV-t/view?usp=sharing
 
 # Project Description
 This game design document describes the details for a multi-platform based 2D catch game where the player collect the eggs. This game plays with the characters to avoid the rocks.

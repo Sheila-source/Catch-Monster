@@ -15,3 +15,10 @@ Dino is the main character in the game. This character is tiny and cute. This pl
 Rocks are the opponent in the game. Those rocks are falling to sky in the ground so that dino must avoid the rocks.
 
 ![rock_sprite](https://user-images.githubusercontent.com/73207169/96667201-2cec5600-138b-11eb-893e-006cd57d622f.png)
+
+# Story
+
+Dino is a cute dinosour he keeps walking but suddenly he felt that there is a risk that will happen to the dino. By avoiding those rocks dino use his skill to move fast and jumping.
+
+
+

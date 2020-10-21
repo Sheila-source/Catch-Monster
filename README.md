@@ -24,6 +24,9 @@ Dino is a cute dinosour he keeps walking but suddenly he felt that there is a ri
 
 This game has a adventure moments to the game because of the main character dino. In this game dino will make him serious in the stage and it also they make dino stronger and faster to the tasks by collecting those eggs.
 
-  # GOALS 
+ - GOALS: Dino will make his self to be safe by avoiding those rocks.
+ - USER SKILLS: Use "A" to run left, Use "D" to run right and Space Bar key to jump.
+ - PREGRESSION AND CHALLENGE: Making more rocks hit the ground so that dino must avoid them.
+ - LOSING: This main character will lose when the rocks hit dino.
 
 

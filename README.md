@@ -20,5 +20,10 @@ Rocks are the opponent in the game. Those rocks are falling to sky in the ground
 
 Dino is a cute dinosour he keeps walking but suddenly he felt that there is a risk that will happen to the dino. By avoiding those rocks dino use his skill to move fast and jumping.
 
+# Theme|Game play
+
+This game has a adventure moments to the game because of the main character dino. In this game dino will make him serious in the stage and it also they make dino stronger and faster to the tasks by collecting those eggs.
+
+  # GOALS 
 
 

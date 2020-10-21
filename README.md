@@ -3,3 +3,6 @@
 
 # Game Animation Sample Link:
 https://drive.google.com/drive/folders/1ZPhQg25BbOYXNuPYBy15W2FTfDe1rbB8?usp=sharing
+
+# Project Description
+This game design document describes the details for a multi-platform based 2D catch game where the player collect the eggs. This game plays with the characters to avoid the rocks.

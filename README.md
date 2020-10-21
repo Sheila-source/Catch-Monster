@@ -50,4 +50,10 @@ The game will be a Mobile Cross-platform: Android, Microsoft Windows and Follow 
 - D KEY - to move right
 - SPACE BAR - to jump
 
+# FONTS
+
+- minecraftia
+
+![minecraftia](https://user-images.githubusercontent.com/73207169/96669751-71c6bb80-1390-11eb-89ad-d3fe72392fc3.png)
+
 

@@ -29,4 +29,15 @@ This game has a adventure moments to the game because of the main character dino
  - PREGRESSION AND CHALLENGE: Making more rocks hit the ground so that dino must avoid them.
  - LOSING: This main character will lose when the rocks hit dino.
 
+# Art Style
+
+This is a 2D isometric game, with high quality 2D sprites. The character and design should be colorful and everything should be unique. And highly animated and layered backgrounds.
+
+# Music and Sounds
+
+- The music should be simple and catchy to the players.
+- The rocks when they fall make a sound.
+- In the first action of the game it has a happy music in the background.
+- When the main character dino hit by the rocks the sound.
+
 
